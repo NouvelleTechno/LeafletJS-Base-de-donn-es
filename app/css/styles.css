@@ -1,0 +1,9 @@
+#map{
+    height: 400px;
+}
+
+.popup{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
